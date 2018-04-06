@@ -19,7 +19,7 @@ Return comparison operators immediately without if/else,
 
 React course - pomodoro rounds: 3
 
-## R1D2
+### R1D2
 
 April 6, 2018 - Friday
 
@@ -27,6 +27,6 @@ FCC Blackjack problem with switch,
 Objects review bracket and dot,
 Object Lookup with var, HasOwnProperty,
 
-React course - pomodoro rounds: ?? (had to redo things to get babel&VSC set up correctly), up to Section3Lecture12
+React course - pomodoro rounds: ?? (had to redo things to get babel&VSC set up correctly), up to Section3Lecture12 17:40
 
 Pomodoro method works for productivity hack. 
