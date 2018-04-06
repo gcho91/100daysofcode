@@ -27,6 +27,6 @@ FCC Blackjack problem with switch,
 Objects review bracket and dot,
 Object Lookup with var, HasOwnProperty,
 
-React course - pomodoro rounds: ?? (had to redo things to get babel&VSC set up correctly)
+React course - pomodoro rounds: ?? (had to redo things to get babel&VSC set up correctly), up to Section3Lecture12
 
 Pomodoro method works for productivity hack. 
