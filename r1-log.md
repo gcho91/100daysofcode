@@ -30,3 +30,11 @@ Object Lookup with var, HasOwnProperty,
 React course - pomodoro rounds: ?? (had to redo things to get babel&VSC set up correctly), up to Section3Lecture12 17:40
 
 Pomodoro method works for productivity hack. 
+
+### R1D3
+
+April 7, 2018 - Saturday
+
+Lean In
+
+Some rounds of React course, conditional rendering review, const and let differences, up to Section 3 Lecture 15 ES6 Aside Arrow Func2
