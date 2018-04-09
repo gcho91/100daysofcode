@@ -38,3 +38,11 @@ April 7, 2018 - Saturday
 Lean In
 
 Some rounds of React course, conditional rendering review, const and let differences, up to Section 3 Lecture 15 ES6 Aside Arrow Func2
+
+###R1D4
+
+April 9, 2018 - Monday
+
+Finished Basic JS FCC - Accessing objects, data structures, nested obj, for/while loop, Profile Lookup, .random, regex
+
+Applied to 5 jobs
