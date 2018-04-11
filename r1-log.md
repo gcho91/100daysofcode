@@ -46,3 +46,12 @@ April 9, 2018 - Monday
 Finished Basic JS FCC - Accessing objects, data structures, nested obj, for/while loop, Profile Lookup, .random, regex
 
 Applied to 5 jobs
+
+###R1D5 
+April 10, 2018 - Tuesday
+
+Finished OOP and Functional Programming Section, 2 rounds pomodoro for React course. 
+
+Phone interview scheduled for job.
+
+Celebrate the small progress. Immerse yourself in the process. You're doing great.
