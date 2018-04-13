@@ -55,3 +55,19 @@ Finished OOP and Functional Programming Section, 2 rounds pomodoro for React cou
 Phone interview scheduled for job.
 
 Celebrate the small progress. Immerse yourself in the process. You're doing great.
+
+### R1D6
+April 11, 2018 - Wednesday
+
+Some FCC reverse string
+
+Phone interviews scheduled for tomorrow - 10:30AM and 11:00AM !!!!
+
+React course pomodoro rounds
+
+### R1D7
+April 12, 2018 - Thursday
+
+2 phone screens, 1 client call OTL
+
+React course
