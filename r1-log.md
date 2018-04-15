@@ -71,3 +71,12 @@ April 12, 2018 - Thursday
 2 phone screens, 1 client call OTL
 
 React course
+
+### R1D8
+April 14, 2018 - Saturday
+
+Took a break on Friday
+
+Tried doing FCC challenges with recursion (reverse a string, factorialize) - still don't understand but I should try practicing every day.
+
+
