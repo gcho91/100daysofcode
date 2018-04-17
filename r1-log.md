@@ -80,3 +80,13 @@ Took a break on Friday
 Tried doing FCC challenges with recursion (reverse a string, factorialize) - still don't understand but I should try practicing every day.
 
 
+### R1D9 
+April 17, 2018 - Tuesday
+
+Slow getting back on track
+
+Try using Pomodoro again to stay focused!
+
+Scheduling a bunch of interviews and phone calls.
+
+React course
