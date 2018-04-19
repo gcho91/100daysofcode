@@ -90,3 +90,11 @@ Try using Pomodoro again to stay focused!
 Scheduling a bunch of interviews and phone calls.
 
 React course
+
+### R1D10
+April 18, 2018 - Wednesday
+
+Phone screening for job this AM
+
+Interview prep for tomorrow
+
