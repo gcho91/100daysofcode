@@ -98,3 +98,8 @@ Phone screening for job this AM
 
 Interview prep for tomorrow
 
+
+### R1D11
+April 20, 2018 - Friday
+
+Finished React course 3.19
