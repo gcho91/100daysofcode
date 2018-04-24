@@ -103,3 +103,21 @@ Interview prep for tomorrow
 April 20, 2018 - Friday
 
 Finished React course 3.19
+Started challenge part 1
+
+
+### R1D12
+April 23, 2018 - Monday
+
+Took a few days off for catsitting
+FCC toy problems - palindrome, longest word in sentence
+JS docs - Call & Apply
+
+
+### R1D13
+April 24, 2018 - Tuesday
+
+Worked on client Squarespace site - 3 rounds
+React course - 3 rounds
+React "class"
+Interview scheduled for Friday
