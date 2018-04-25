@@ -121,3 +121,9 @@ Worked on client Squarespace site - 3 rounds
 React course - 3 rounds
 React "class"
 Interview scheduled for Friday
+
+### R1D14
+April 25, 2018 - Wednesday
+
+React course - Class, Creating React Components, Nesting components
+Scheduled pair programming session
