@@ -127,3 +127,12 @@ April 25, 2018 - Wednesday
 
 React course - Class, Creating React Components, Nesting components
 Scheduled pair programming session
+
+### R1D15
+April 30, 2018 - Monday
+
+React Course - props, components
+
+FCC basic algo - finally starting to make sense and was able to solve some with minimal referencing. They're all about patterns and practice
+
+To do: .apply() and .bind()
