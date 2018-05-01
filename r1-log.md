@@ -136,3 +136,10 @@ React Course - props, components
 FCC basic algo - finally starting to make sense and was able to solve some with minimal referencing. They're all about patterns and practice
 
 To do: .apply() and .bind()
+
+### R1D16
+May 1, 2018 - Tuesday
+
+FCC review, Code Wars
+spread operator
+Client work
