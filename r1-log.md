@@ -143,3 +143,18 @@ May 1, 2018 - Tuesday
 FCC review, Code Wars
 spread operator
 Client work
+
+### R1D17
+May 2, 2018 - Wednesday
+
+FCC review, Code Wars, Online Pair Programming Session 1 
+
+### R1D18
+May 3, 2018 - Thursday
+
+FCC review x 3
+
+### R1D19
+May 8, 2018 - Tuesday
+
+FCC Chunky Monkey - should review .slice()
