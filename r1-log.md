@@ -158,3 +158,8 @@ FCC review x 3
 May 8, 2018 - Tuesday
 
 FCC Chunky Monkey - should review .slice()
+
+### R1D20
+May 22, 2018 - Tuesday
+
+FCC Where do I belong - sort, arrays, review loops
