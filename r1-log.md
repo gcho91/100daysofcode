@@ -163,3 +163,9 @@ FCC Chunky Monkey - should review .slice()
 May 22, 2018 - Tuesday
 
 FCC Where do I belong - sort, arrays, review loops
+
+### R1D21
+May 24, 2018 - Thursday
+
+Attempted FCC Caesar's Cypher
+Solved Codewars Who Likes It facebook problem
