@@ -170,3 +170,10 @@ May 24, 2018 - Thursday
 Attempted FCC Caesar's Cypher
 Solved Codewars Who Likes It facebook problem
 React-router 
+
+### R1D22
+May 30, 2018 - Wednesday
+
+Some 8kyu and 7kyu codewars - watch out for =/==/=== ><
+"You learn by building projects, not watching tutorials"
+Knee deep into Shopify custom themes and Liquid
